@@ -11,4 +11,15 @@
 ## 8 BIT DIV
 ![8 bit div](https://user-images.githubusercontent.com/113339287/214452671-d1f8ec0c-1a10-4112-b2bb-e9a230274d62.png)
 # EXPERIMENT 5
-## 8 BIT 
+## 16 BIT ADD
+![16 bit add](https://user-images.githubusercontent.com/113339287/214453061-5527fefd-bfc6-46e8-9155-84f6ea848bf9.png)
+# EXPERIMENT 6
+## 16 BIT SUB
+![16 bit sub](https://user-images.githubusercontent.com/113339287/214453109-458edccc-10d4-460f-80e2-d1a515c1c778.png)
+# EXPERIMENT 7
+## 16 BIT MUL
+![16 bit mul](https://user-images.githubusercontent.com/113339287/214453154-46197bf8-6be7-4b91-9f23-ac0676196be1.png)
+# EXPERIMENT 8
+## 16 BIT DIV
+![16 bit div](https://user-images.githubusercontent.com/113339287/214453215-32cfbba4-d059-4150-b587-558f5f1fd93d.png)
+# EXPERIMENT 9
